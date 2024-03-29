@@ -30,6 +30,7 @@ cd spring-react
 ## Starting UI
 ```bash
 cd app
+npm install
 npm start
 ```
 
