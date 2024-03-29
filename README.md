@@ -19,8 +19,6 @@ git clone https://github.com/freemabd/spring-react
 cd spring-react
 ```
 
-This will get a copy of the project installed locally.
-
 ## Starting API
 ```bash
 cd spring-react
