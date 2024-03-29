@@ -39,7 +39,7 @@ Completion of Bourbon Distillery Management Application
 
 Objective:
 Develop a React/Spring Boot application for managing information on bourbon distilleries. The application should store data related to bourbon 
-distilleries, including their name, license number, address, collection of bourbons, and collection of customers.
+distilleries, including their name, license number, address, collection of bourbons, and collection of customers. 
 
 #### Bourbon Distillery Information: 
 - Name
@@ -55,12 +55,12 @@ distilleries, including their name, license number, address, collection of bourb
 
 #### Client Application(React):
 This client will use a REST API implemented with Spring Boot. This application should allow for all CRUD(create, read, update and delete) 
-operations of Bourbon Distilleries, and it's nested properties. Feel free to create any React components 
-necessary to support these requirements. 
+operations of Bourbon Distilleries, and all it's nested properties. App.js is stubbed out to return all initialized distilleries in H2 database.
+Feel free to create any React components necessary to support these requirements. 
 
 #### Rest API(Spring Boot):
 Please complete the REST API for this application. It provides a controller, model and jpa repository for starters. Please
-add any classes/controllers/models/repositories needed to complete this task. This REST API is using H2 in memory database and uses 
+add any controllers/models/repositories needed to complete this task. This REST API is using H2 in memory database and uses 
 the Initializer class that loads data on startup of the REST API. When running ./gradlew bootRun, notice the output of the Initializer
 loading data:
 ```bash
