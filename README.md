@@ -49,7 +49,7 @@ distilleries, including their name, license number, address, collection of bourb
 - Address
 - Collection of Bourbons
   - Name
-  - Type - (options: single barrel, cask strength, wheated, high rye, high corn, small batch)
+  - Type - (one of the following options: single barrel, cask strength, wheated, high rye, high corn, small batch)
   - ABV - (Alcohol By Volume Percentage)
 - Collection of Customers
   - Name
