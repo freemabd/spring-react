@@ -77,7 +77,7 @@ Please make the application as robust as possible and cover all edge cases. Plea
 If you add any application dependencies please document and explain why you are including them.
 
 #### Submission
-When finished, please create a zip file of spring-react directory and email to: brian.d.freeman@vumc.org
+When finished, please create a zip file of spring-react directory and email to: brian.d.freeman@gmail.com
 
 ## Links
 
