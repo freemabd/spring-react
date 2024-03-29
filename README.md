@@ -33,6 +33,9 @@ cd app
 npm install
 npm start
 ```
+Load client app in browser at http://localhost:3000
+
+![Bourbon Distillery Application](bourbon-distillery-app.png)
 
 ## Coding Tasks
 
